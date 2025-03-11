@@ -1,0 +1,36 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(172, 129, 129);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+#root{
+    background-color: rgb(223, 115, 8);
+    text-align: center;
+    padding: 20px;
+    border-radius: 5px;
+}
+#root2{
+    background-color: red;
+    text-align: center;
+    padding: 30px;
+    border-radius: 20px;
+    font-size: 30px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+}
+button{
+    font-size: 15px;
+    border-radius: 5px;
+    background-color: greenyellow;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+#result{
+    font-size: 30px;
+}
